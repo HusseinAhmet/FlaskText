@@ -1,0 +1,5 @@
+punkt
+stopwords
+corpus
+wordnet
+omw-1.4
